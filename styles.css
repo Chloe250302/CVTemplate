@@ -15,8 +15,8 @@ body {
 
 /* Header styles */
 header {
-    background-color: #5e8745; /* Dark green header background */
-    color: #fff;
+    background-color: #C8A2C8; /* Dark green header background */
+    color: #C8A2C8;
     padding: 20px;
     width: 100%;
     text-align: center;
@@ -47,7 +47,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #8cbf6b; /* Light green on hover */
+    color: #C8A2C8; /* Light green on hover */
 }
 
 /* Section styles */
@@ -62,7 +62,7 @@ section {
 section h2 {
     font-size: 1.8rem;
     margin-bottom: 20px;
-    color: #5e8745; /* Dark green for section headings */
+    color: #C8A2C8; /* Dark green for section headings */
 }
 
 /* Education styles */
@@ -74,7 +74,7 @@ section#education p {
 /* Experience styles */
 .experience-entry h3 {
     font-size: 1.4rem;
-    color: #5e8745; /* Dark green for experience headings */
+    color: #C8A2C8; /* Dark green for experience headings */
 }
 
 .experience-entry ul {
@@ -91,14 +91,14 @@ section#skills ul {
 
 section#skills li {
     font-size: 1.2rem;
-    color: #5e8745; /* Dark green for skill text */
+    color: #C8A2C8; /* Dark green for skill text */
     margin-bottom: 10px;
 }
 
 /* Activities styles */
 .activity-entry h3 {
     font-size: 1.4rem;
-    color: #5e8745; /* Dark green for activity titles */
+    color: #C8A2C8; /* Dark green for activity titles */
 }
 
 /* Footer styles */
